@@ -1,0 +1,46 @@
+.help-block{
+    color: red;
+}
+
+.btn{
+    margin-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.form-group{
+    margin-top: 15px;
+}
+
+.form{
+    width: 80%;
+    margin: 50px;
+    padding: 50px;
+    background-color: #E8DFCA;
+}
+
+.title{
+    margin-top: 35px;
+}
+
+.project{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3rem;
+}
+
+.font{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.2rem;
+}
+
+.help-block{
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+
+
+
+
+
